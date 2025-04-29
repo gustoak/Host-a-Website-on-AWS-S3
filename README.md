@@ -1,17 +1,4 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
-
 # Host a Website on Amazon S3
-
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-host-a-website-on-s3)
-
-**Author:** gustavo.carvalho.br@gmail.com  
-**Email:** gustavo.carvalho.br@gmail.com
-
----
-
-![Image](http://learn.nextwork.org/compassionate_teal_gentle_red_currant/uploads/aws-host-a-website-on-s3_5d4474f9)
-
----
 
 ## Introducing Today's Project!
 
