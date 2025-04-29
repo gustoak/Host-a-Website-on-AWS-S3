@@ -104,9 +104,6 @@ A 404 Not Found error (wrong file name or missing index.html)e bucket endpoint U
 
 To resolve this 403 added a bucket policy that explicitly grants public for all files I uploaded3 Forbidden error, I...
 
-![Image](http://learn.nextwork.org/compassionate_teal_gentle_red_currant/uploads/aws-host-a-website-on-s3_5d4474f9)
-
----
 
 ## Bucket Policies
 
@@ -118,6 +115,4 @@ It controls who can perform what actions (like GetObject, DeleteObject, etc.) on
 
 ![Image](http://learn.nextwork.org/compassionate_teal_gentle_red_currant/uploads/aws-host-a-website-on-s3_sm2sm2sm)
 
----
 
----
